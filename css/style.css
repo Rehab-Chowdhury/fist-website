@@ -1,0 +1,117 @@
+body{
+    font-family: 'Inconsolata', monospace;
+font-family: 'Poppins', sans-serif;
+margin: 0%;
+
+}
+.red-color{
+    color: red;
+}
+.yellow-color{
+    color:rgba(228, 205, 0, 0.918);
+}
+.captain-color{
+ color: rgb(2, 216, 216);
+}
+
+h1{
+    font-size: 50px;
+}
+.avcolor{
+    color: red;
+}
+.flexable{
+    display: flex;
+    margin-bottom: 8%;
+}
+.half-of-page{
+    width: 50%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.half-of-page img{
+    width: 85%;
+    height: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 7px;
+    color:white;
+    font-weight: 600;
+
+}
+
+.top_baner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.middle-baner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.half-of-scond{
+    width: 50%;
+    padding-left: 6%;
+    padding-right: 6%;
+
+    
+}
+.half-of-scond img{
+ width: 75%;
+ height: 75%;
+
+
+}
+.half-of-third{
+    width: 50%;
+    padding-left: 6%;
+    padding-right: 6%;
+
+}
+.half-of-third img{
+    width: 78%;
+    height: 62%;
+   
+}
+.half-of-last{
+    width: 50%;
+    padding-left: 6%;
+    padding-right: 6%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 2%;
+
+}
+h2{
+    font-size: 30px;
+}
+.modify-color{
+    color: orange;
+}
+.area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#first-one{
+    border-left: 3px solid;
+  border-image: linear-gradient(blue,cyan);
+  border-image-slice: 1;
+}
+#scond-one{
+    border-left: 3px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
+}
+#third-one{
+    border-left: 3px solid;
+    border-image: linear-gradient(black,white);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
