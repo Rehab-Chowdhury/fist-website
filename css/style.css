@@ -112,6 +112,15 @@ h2{
     border-image: linear-gradient(black,white);
     border-image-slice: 1;
 }
-footer p{
+.table{
+    background-color: black;
     text-align: center;
+    padding: 10px 20px 10px 20px
+    
+}
+.placing{
+    color: white;
+}
+.new-color{
+    color: tomato;
 }
